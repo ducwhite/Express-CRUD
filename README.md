@@ -1,11 +1,7 @@
 # Install 
 
 ```
-npm install express
-```
-
-```
-npm install uuid
+npm install 
 ```
 
 # Start server
